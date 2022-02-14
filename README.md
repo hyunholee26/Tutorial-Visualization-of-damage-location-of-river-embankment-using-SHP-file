@@ -1,4 +1,5 @@
 # [튜토리얼] SHP파일을 이용한 하천제방 피해위치 시각화
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hyunholee26/Tutorial-Visualization-of-damage-location-of-river-embankment-using-SHP-file/HEAD)
 
 ## 1. 활용 데이터
   - 데이터 출처 : 공공데이터 포털 : 한국국토정보공사_침수흔적정보 침수파제위치
